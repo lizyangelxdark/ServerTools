@@ -18,7 +18,7 @@
 
 ![Deploy+on+Railway](https://railway.app/button.svg)
 
-## ➽ Ssh 」
+## 「 Ssh 」
 
 > **Aynen Tipki Ssh Baglanti Icin Termux Gerektiren Islemerdern Søz Konusu...**
 
