@@ -25,30 +25,39 @@
 ## ➽ OpenSsŁ 」
 
 Kurulum OpenSsl.
+
 ```$ pkg update && pkg upgrade```
 
 Gerekli Paketkeri Kuralīm.
+
 ```$ pkg install apache2 git neovim wget curl```
 
 Simdi Ise Baglantimizi Ayarlayalim.
+
 ```$ pkg install openssh neofetch fish nmap```
 
 Baglantiyi Etkinlestirelim.
+
 ```$ sshd```
 
 Ardından, kullanıcı adınızı ve IP adresinizi ifconfig ile kontrol edin:
+
 ```$ whoami```
 
 Şimdi SSH hizmetinin hangi bağlantı noktasında çalıştığını kontrol etmemiz gerekiyor. İle kontrol edebilirsiniz.
+
 ```$ nmap -sV 127.0.0.1```
 
 Bağlantı Noktası Numarasına sahip olduğunuzda, PC'nize geçin ve cihazınıza.
+
 ```$ ssh -p <PORT> <USER>@<IP>```
 
 Örneğin, benim için tam komut şöyle olurdu.
+
 ```$ ssh -p 8022 u0_a147@192.168.0.105```
 
 Sonraki varsayılan kabuğu şu şekilde değiştirin.
+
 ```$ chsh /data/data/com.termux/files/usr/bin/fish```
 
 Artik Server Hazir Örnek Bir Görsel.
