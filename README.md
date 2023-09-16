@@ -23,7 +23,10 @@
 > **Aynen Tipki Ssh Baglanti Icin Termux Gerektiren Islemerdern Søz Konusu...**
 
 ## ➽ OpenSsŁ 」
-
+<details>
+<summary><h3> ᴍᴇᴛʜᴏᴅ </b>
+</h3></summary>
+  
 Kurulum OpenSsl.
 
 ```$ pkg update && pkg upgrade```
@@ -68,7 +71,7 @@ Artik Server Hazir Örnek Bir Görsel.
   <img src="https://telegra.ph/file/d081ab00989ce75c8416a.jpg">
 </p>
 
-
+---------------------
 
 
 
