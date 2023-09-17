@@ -121,7 +121,19 @@ $ chsh /data/data/com.termux/files/usr/bin/fish
 
 -----------------------    
 
+## ➽ Goorm.ide 」
 
+<p align="center"><a href="</h2>
+
+<p align="center">
+  <img src="https://telegra.ph/file/c51884c5ad20ae8e49b47.gif">
+
+  
+</p>
+<p align="center">
+    <a href="https://goorm.io" alt="Offical"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
+
+----------------------- 
 
 
 
