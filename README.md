@@ -108,6 +108,13 @@ $ chsh /data/data/com.termux/files/usr/bin/fish
 > **Bazi Kurumlar Yada Bilisim Firmalarī Īçin Kīyak Bir Haberim Var Artīk Masrafsīz Bir Sekilde Projelerinizi Halledebilmeniz Īçin Gerekli (Virtual Operating Systems)..
 > Notice: Saldīrīya Ugramanīz Durumda Moderatorler Sorumlu Olmayacaktīr..**
 
+## ➽ Cocalc 」
+
+<p align="center"><a href="</h2>
+
+<p align="center">
+  <img src="https://telegra.ph/file/d6f7a34a70c4c4232bd46.gif">
+
 
 
 
