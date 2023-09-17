@@ -85,9 +85,10 @@ Artik Server Hazir Örnek Bir Görsel.
 </h3></summary>
 
 
-## ➽ VDS | VPS | VOS 」
+# ➽ Vds | Vps 」
 
-> **Bazi Kurumlar Yada Bilisim Firma Īçin Kīyak Bir Haberim Var Artīk Masrafsīz Bir Sekilde Projelerinizi Halledebilmeniz Īçin Gerekli (Virtual Operating Systems)..
+
+> **Bazi Kurumlar Yada Bilisim Firmalarī Īçin Kīyak Bir Haberim Var Artīk Masrafsīz Bir Sekilde Projelerinizi Halledebilmeniz Īçin Gerekli (Virtual Operating Systems)..
 > Notice: Saldīrīya Ugramanīz Durumda Moderatorler Sorumlu Olmayacaktīr..**
 
 
