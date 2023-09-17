@@ -102,7 +102,7 @@ $ chsh /data/data/com.termux/files/usr/bin/fish
 </h3></summary>
 
 
-# ➽ Vds | Vps 」
+# 「 Vds | Vps 」
 
 
 > **Bazi Kurumlar Yada Bilisim Firmalarī Īçin Kīyak Bir Haberim Var Artīk Masrafsīz Bir Sekilde Projelerinizi Halledebilmeniz Īçin Gerekli (Virtual Operating Systems)..
@@ -115,7 +115,11 @@ $ chsh /data/data/com.termux/files/usr/bin/fish
 <p align="center">
   <img src="https://telegra.ph/file/d6f7a34a70c4c4232bd46.gif">
 
+</p>
+<p align="center">
+    <a href="https://cocalc.com/" alt="Offical"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
+-----------------------    
 
 
 
