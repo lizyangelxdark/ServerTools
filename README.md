@@ -33,43 +33,60 @@
 <summary><h3> ᴍᴇᴛʜᴏᴅ (2) </b>
 </h3></summary>
   
-Kurulum OpenSsl.
+### Kurulum OpenSsl.
 
-```$ pkg update && pkg upgrade```
+```
+$ pkg update && pkg upgrade
+```
 
-Gerekli Paketkeri Kuralīm.
+### Gerekli Paketkeri Kuralīm.
+```js
+$ pkg install apache2 git neovim wget curl
+```
 
-```$ pkg install apache2 git neovim wget curl```
+### Simdi Ise Baglantimizi Ayarlayalim.
 
-Simdi Ise Baglantimizi Ayarlayalim.
+```
+$ pkg install openssh neofetch fish nmap
+```
 
-```$ pkg install openssh neofetch fish nmap```
+### Baglantiyi Etkinlestirelim.
 
-Baglantiyi Etkinlestirelim.
+```
+$ sshd
+```
 
-```$ sshd```
+### Ardından, kullanıcı adınızı ve IP adresinizi ifconfig ile kontrol edin:
 
-Ardından, kullanıcı adınızı ve IP adresinizi ifconfig ile kontrol edin:
+```
+$ whoami
+```
 
-```$ whoami```
+### Şimdi SSH hizmetinin hangi bağlantı noktasında çalıştığını kontrol etmemiz gerekiyor. İle kontrol edebilirsiniz.
 
-Şimdi SSH hizmetinin hangi bağlantı noktasında çalıştığını kontrol etmemiz gerekiyor. İle kontrol edebilirsiniz.
+```
+$ nmap -sV 127.0.0.1
+```
 
-```$ nmap -sV 127.0.0.1```
+### Bağlantı Noktası Numarasına sahip olduğunuzda, PC'nize geçin ve cihazınıza.
 
-Bağlantı Noktası Numarasına sahip olduğunuzda, PC'nize geçin ve cihazınıza.
+```
+$ ssh -p <PORT> <USER>@<IP>
+```
 
-```$ ssh -p <PORT> <USER>@<IP>```
+### Örneğin, benim için tam komut şöyle olurdu.
 
-Örneğin, benim için tam komut şöyle olurdu.
+```
+$ ssh -p 8022 u0_a147@192.168.0.105
+```
 
-```$ ssh -p 8022 u0_a147@192.168.0.105```
+### Sonraki varsayılan kabuğu şu şekilde değiştirin.
 
-Sonraki varsayılan kabuğu şu şekilde değiştirin.
+```
+$ chsh /data/data/com.termux/files/usr/bin/fish
+```
 
-```$ chsh /data/data/com.termux/files/usr/bin/fish```
-
-Artik Server Hazir Örnek Bir Görsel.
+### Artik Server Hazir Örnek Bir Görsel.
 
 </h2>
 
