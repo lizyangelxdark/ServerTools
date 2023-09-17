@@ -20,8 +20,7 @@
 ## ➽ Railway 」
 
 ![Deploy+on+Railway](https://railway.app/button.svg)
-
-</h2>
+</p>
 
 ## 「 Ssh 」
 
