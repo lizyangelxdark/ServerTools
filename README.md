@@ -5,8 +5,9 @@
 ## ➽ Tg | Wp | Dd 」
 
 > **Evet Telegram Whatsapp Disord, Bot Yapīmcīlarī Için Gerekli Altyapīlar...**
+
 <details>
-<summary><h3> ᴍᴇᴛʜᴏᴅ </b>
+<summary><h3> ᴍᴇᴛʜᴏᴅ (1) </b>
 </h3></summary>
   
 ## ➽ Oketo 」
@@ -21,8 +22,7 @@
 
 ![Deploy+on+Railway](https://railway.app/button.svg)
 
-</p>
------------------------
+</b></summary><br>
 
 ## 「 Ssh 」
 
@@ -30,7 +30,7 @@
 
 ## ➽ OpenSsŁ 」
 <details>
-<summary><h3> ᴍᴇᴛʜᴏᴅ </b>
+<summary><h3> ᴍᴇᴛʜᴏᴅ (2) </b>
 </h3></summary>
   
 Kurulum OpenSsl.
@@ -80,6 +80,15 @@ Artik Server Hazir Örnek Bir Görsel.
 ---------------------
 
 
+<details>
+<summary><h3> ᴍᴇᴛʜᴏᴅ (3) </b>
+</h3></summary>
+
+
+## ## ➽ VDS | VPS | VOS 」
+
+> **Bazi Kurumlar Yada Bilisim Firma Īçin Kīyak Bir Haberim Var Artīk Masrafsīz Bir Sekilde Projelerinizi Halledebilmeniz Īçin Gerekli (Virtual Operating Systems)..
+> Notice: Saldīrīya Ugramanīz Durumda Moderatorler Sorumlu Olmayacaktīr..**
 
 
 
