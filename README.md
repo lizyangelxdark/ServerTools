@@ -142,13 +142,9 @@ $ chsh /data/data/com.termux/files/usr/bin/fish
 
 ## 「 Open Ssh 」
 
-➻ . ☘️
-
-## ➽ Shell 」
-
 > **Sanīrīm Level Atlamīs Olsanda Senin Īçin Iyi Bīr Haberim Var Proxy, Socs V5 Sosyal Medya Īçinde Özel Köprü Geçitleri**
 
-## ➽ Ocean 」
+## ➽ Ssh Ocean 」
 
 <p align="center"><a href="</h2>
 
