@@ -135,5 +135,27 @@ $ chsh /data/data/com.termux/files/usr/bin/fish
 
 ----------------------- 
 
+<details>
+<summary><h3> ᴍᴇᴛʜᴏᴅ (4) </b>
+</h3></summary>
 
+
+## 「 Open Ssh 」
+
+➻ . ☘️
+
+## ➽ Shell 」
+
+> **Sanīrīm Level Atlamīs Olsanda Senin Īçin Iyi Bīr Haberim Var Proxy, Socs V5 Sosyal Medya Īçinde Özel Köprü Geçitleri**
+
+## ➽ Ocean 」
+
+<p align="center"><a href="</h2>
+
+<p align="center">
+  <img src="https://telegra.ph/file/f283d84a46ffa4aa03554.gif">
+
+</p>
+<p align="center">
+    <a href="https://sshocean.com" alt="Offical"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
